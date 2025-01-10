@@ -1,7 +1,5 @@
 # Inside Wiki
 
-[![Wakatime](https://wakatime.com/badge/github/Wixonic/Inside.svg?style=flat)](https://wakatime.com/badge/github/Wixonic/Inside)
-
 - [Support](https://github.com/Wixonic/Inside/blob/Default/.github/SUPPORT.md)
 - [Code of Conduct](https://github.com/Wixonic/Inside/blob/Default/.github/CODE_OF_CONDUCT.md)
 
