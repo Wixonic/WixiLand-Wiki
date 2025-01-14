@@ -1,6 +1,6 @@
 {
 	"title": "Complex",
-	"summary": ""
+	"summary": "The complex is a network of 12 shelters originally built to protect humans and certain animals from the Great Cold. After the Derangement, it became home to the Wixies. Comprised of Silos connected by Tubes, it was created by the Founders to shield life from the AEON reactor explosion."
 }
 
 <!--METADATA-->
@@ -14,11 +14,11 @@ The complex was originally created by the [Founders](wiki://founders) to protect
 
 ## Structure
 
-![Simplified schematic of the complex](assets://complex-schematic)
+![Simplified layout of the complex](assets://complex-layout)
 
 Each [Silo](wiki://silo) is entirely independent, but collaboration between [Silos](wiki://silo) is permitted under the [Second Pact](wiki://second-pact), making the transport of technologies, documents, and other goods frequent in order to reduce technological disparities between the [Silos](wiki://silo).
 
-Although cables and pipes are visible in some documents extracted from [declassified relics](wiki://declassified-relics), the origin of the power supply and water supply remains unknown.
+Although cables and pipes are visible in some layouts extracted from [declassified relics](wiki://declassified-relics), the origin of the power supply and water supply remains unknown.
 
 ## Legends and Beliefs
 
