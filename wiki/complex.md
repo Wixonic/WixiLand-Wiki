@@ -1,9 +1,20 @@
+<!--METADATA-->
+
 {
 	"title": "Complex",
 	"summary": "The complex is a network of 12 shelters originally built to protect humans and certain animals from the Great Cold. After the Derangement, it became home to the Wixies. Comprised of Silos connected by Tubes, it was created by the Founders to shield life from the AEON reactor explosion."
 }
 
 <!--METADATA-->
+<!--INFOBOX-->
+
+{
+	"_names_": ["Complex", "Inside", "WixiLand"],
+	"_images_": ["assets://complex-icon"],
+	"Created by": "[Founders](wiki://founders)"
+}
+
+<!--INFOBOX-->
 <!--CONTENT-->
 
 The **complex** is a set of constructions designed initially as shelters for humans and certain animals that sought refuge from the [Great Cold](wiki://great-cold). After the [Derangement](wiki://derangement), it became a haven for the [Wixies](wiki://wixi). The complex consists of 12 [Silos](wiki://silo) connected by [Tubes](wiki://tube).
@@ -25,3 +36,5 @@ Although cables and pipes are visible in some layouts extracted from [declassifi
 Due to isolation after the [Derangement](wiki://derangement), the [Wixies](wiki://wixi) began to speculate about what might lie beyond the walls of the complex. This led to the emergence of various legends:
 - [Belief of Level 1](wiki://belief-level-1), a belief in a potential Level 1 within each [Silo](wiki://silo).
 - [Fear of Humans](wiki://fear-of-humans), a legend about the oppression of humans before the [Derangement](wiki://derangement).
+
+<!--CONTENT-->
