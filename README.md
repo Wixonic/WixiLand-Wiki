@@ -1,6 +1,6 @@
 # WixiLand Wiki
 
-> **[WixiLand Wiki](https://wixonic.fr)** by [Wixonic](https://wixonic.fr) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+> **WixiLand Wiki** by [Wixonic](https://wixonic.fr) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 - [Support](https://github.com/Wixonic/WixiLand-Wiki/blob/Default/.github/SUPPORT.md)
 - [Code of Conduct](https://github.com/Wixonic/WixiLand-Wiki/blob/Default/.github/CODE_OF_CONDUCT.md)
