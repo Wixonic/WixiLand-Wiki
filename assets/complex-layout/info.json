@@ -4,5 +4,14 @@
 		"name": "W.A.C.",
 		"url": "wiki://wac"
 	},
-	"formats": []
+	"formats": [
+		{
+			"name": "Original",
+			"size": [
+				300,
+				225
+			],
+			"path": "original.jpg"
+		}
+	]
 }
