@@ -6,6 +6,7 @@
 }
 
 <!--METADATA-->
+---
 <!--INFOBOX-->
 
 {
@@ -15,6 +16,7 @@
 }
 
 <!--INFOBOX-->
+---
 <!--CONTENT-->
 
 The **complex** is a set of constructions designed initially as shelters for humans and certain animals that sought refuge from the [Great Cold](wiki://great-cold). After the [Derangement](wiki://derangement), it became a haven for the [Wixies](wiki://wixi). The complex consists of 12 [Silos](wiki://silo) connected by [Tubes](wiki://tube).
