@@ -6,4 +6,4 @@
 <!--METADATA-->
 <!--CONTENT-->
 
-Home of all Wixies, Inside is a network of [Silos](/wiki/silo/) buildings. All [Silos](/wiki/silo/) are connected with
+Home of all Wixies, Inside is a network of [Silos] buildings. All [Silos] are connected with
