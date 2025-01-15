@@ -12,7 +12,7 @@
 {
 	"_names_": ["Complex", "Inside", "WixiLand"],
 	"_images_": ["assets://complex-icon"],
-	"Created by": "[Founders](wiki://founders)"
+	"Built by": "[Founders](wiki://founders)"
 }
 
 <!--INFOBOX-->
