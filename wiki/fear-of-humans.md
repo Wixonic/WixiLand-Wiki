@@ -11,7 +11,7 @@
 
 {
 	"_names_": [""],
-	"_image_": "",
+	"_images_": "",
 }
 
 <!--INFOBOX-->
