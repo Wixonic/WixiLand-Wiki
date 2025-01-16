@@ -36,7 +36,7 @@ Although cables and pipes are visible in some layouts extracted from [declassifi
 ## Legends and Beliefs
 
 Due to isolation after the [Derangement](wiki://derangement), the [Wixies](wiki://wixi) began to speculate about what might lie beyond the walls of the complex. This led to the emergence of various legends:
-- [Belief of Level 1](wiki://belief-level-1), a belief in a potential Level 1 within each [Silo](wiki://silo).
+- [Belief of Level 1](wiki://belief-level-1), a belief in a theoretical Level 1 within each [Silo](wiki://silo).
 - [Fear of Humans](wiki://fear-of-humans), a legend referring to theoretical oppression and domination exercised by humans prior to the [Derangement](wiki://derangement).
 
 <!--CONTENT-->
