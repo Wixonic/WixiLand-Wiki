@@ -10,6 +10,7 @@
 <!--INFOBOX-->
 
 {
+	"_active_": true,
 	"_names_": ["Silo"],
 	"_images_": [],
 	"Built by": "[Founders](wiki://founders)"
