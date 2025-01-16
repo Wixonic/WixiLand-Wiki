@@ -12,6 +12,8 @@
 {
 	"_names_": ["Silo"],
 	"_images_": [""],
+	"Built by": "[Founders](wiki://founders)"
+	"Levels": "99"
 }
 
 <!--INFOBOX-->
