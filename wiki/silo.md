@@ -11,7 +11,7 @@
 
 {
 	"_names_": ["Silo"],
-	"_images_": [""],
+	"_images_": [],
 	"Built by": "[Founders](wiki://founders)"
 	"Levels": "99"
 }
