@@ -20,7 +20,6 @@
 ---
 <!--CONTENT-->
 
-Silo Wiki
 A **Silo** is an underground bunker serving as a refuge during the [Great Cold](wiki://great-cold). Buried deep underground, Silos are key components of the [Complex](wiki://complex) and are interconnected through the [Tube](wiki://tube).
 
 ## Structure
