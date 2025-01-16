@@ -2,7 +2,7 @@
 
 {
 	"title": "Silo",
-	"summary": "A Silo is an underground bunker complex within the Complex, designed as a refuge during the Great Cold. Comprising 99 levels, Silos house various facilities for storage, housing, and maintenance. The Wixies continue to operate and maintain these systems, even in the absence of humans."
+	"summary": "A Silo is an underground bunker, part of the Complex, designed as a refuge during the Great Cold. Comprising 99 levels, Silos house various facilities for storage, housing, and maintenance. The Wixies continue to operate and maintain these systems, even in the absence of humans."
 }
 
 <!--METADATA-->
@@ -21,7 +21,7 @@
 <!--CONTENT-->
 
 Silo Wiki
-A **Silo** is an underground bunker complex serving as a refuge during the [Great Cold](wiki://great-cold). Buried deep underground, Silos are key components of the [Complex](wiki://complex) and are interconnected through the [Tube](wiki://tube).
+A **Silo** is an underground bunker serving as a refuge during the [Great Cold](wiki://great-cold). Buried deep underground, Silos are key components of the [Complex](wiki://complex) and are interconnected through the [Tube](wiki://tube).
 
 ## Structure
 
