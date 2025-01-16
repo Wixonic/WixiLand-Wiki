@@ -10,6 +10,7 @@
 <!--INFOBOX-->
 
 {
+	"_active_": true,
 	"_names_": ["Complex", "Inside", "WixiLand"],
 	"_images_": ["assets://complex-icon"],
 	"Built by": "[Founders](wiki://founders)"
