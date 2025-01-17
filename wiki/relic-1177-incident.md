@@ -1,6 +1,7 @@
 <!--METADATA-->
 
 {
+	"active": false,
 	"title": "",
 	"summary": ""
 }
@@ -11,7 +12,7 @@
 
 {
 	"_names_": [""],
-	"_images_": "",
+	"_images_": [],
 }
 
 <!--INFOBOX-->
