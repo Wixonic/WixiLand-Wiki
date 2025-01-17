@@ -1,7 +1,8 @@
 <!--METADATA-->
 
 {
-	"title": "Containment Procedure -0",
+	"active": false,
+	"title": "",
 	"summary": ""
 }
 
@@ -11,7 +12,7 @@
 
 {
 	"_names_": [""],
-	"_images_": "",
+	"_images_": [],
 }
 
 <!--INFOBOX-->
