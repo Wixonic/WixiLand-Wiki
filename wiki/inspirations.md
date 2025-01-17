@@ -1,6 +1,7 @@
 <!--METADATA-->
 
 {
+	"active": false,
 	"title": "Inspirations",
 	"summary": ""
 }
