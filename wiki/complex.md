@@ -1,6 +1,7 @@
 <!--METADATA-->
 
 {
+	"active": true,
 	"title": "Complex",
 	"summary": "The Complex is a network of 12 Silos originally built to protect humans and certain animals from the Great Cold. After the Derangement, it became home to the Wixies. It was created by the Founders to shield life from the AEON reactor explosion."
 }
@@ -10,7 +11,6 @@
 <!--INFOBOX-->
 
 {
-	"_active_": true,
 	"_names_": ["Complex", "Inside", "WixiLand"],
 	"_images_": ["assets://complex-icon"],
 	"Built by": "[Founders](wiki://founders)"
