@@ -2,6 +2,8 @@
 
 > **WixiLand Wiki** by [Wixonic](https://wixonic.fr) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+[![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon)](https://patreon.com/Wixonic)
+
 - [Support](https://github.com/Wixonic/WixiLand-Wiki/blob/Default/.github/SUPPORT.md)
 - [Code of Conduct](https://github.com/Wixonic/WixiLand-Wiki/blob/Default/.github/CODE_OF_CONDUCT.md)
 
