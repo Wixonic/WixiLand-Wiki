@@ -34,7 +34,7 @@ A Silo consists of 99 levels, numbered from 2 to 100, connected by a large ramp.
 - **Level 13**: Contains the [IT Department](wiki://it-department).
 - **Levels 20, 50, and 80**: Home to the [Cafeterias](wiki://cafeteria).
 - **Level 40**: Location of [ELEUTHIA](wiki://eleuthia).
-- **Levels 51–55**: These levels are closed and inaccessible, leading to speculation that they are part of [ELEUTHIA](wiki://eleuthia).
+- **Levels 41-45**: These levels are closed and inaccessible, leading to speculation that they are part of [ELEUTHIA](wiki://eleuthia).
 - **Levels 95–97**: Contain the [Forges](wiki://forges).
 - **Level 98**: Houses the [Resource Distribution Center](wiki://wrdc).
 - **Level 99**: Contains the [Recycling Center](wiki://wrc) and [incinerator](wiki://incinerator).
