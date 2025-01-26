@@ -29,7 +29,7 @@ A Silo consists of 99 levels, numbered from 2 to 100, connected by a large ramp.
 
 ### Notable Levels
 
-- **Level 2**: The highest known level, with a ceiling obstructing the ramp’s path. This ceiling is central to the [Belief of Level 1](wiki://belief-of-level-1).
+- **Level 2**: The highest known level, with a ceiling obstructing the ramp’s path. This ceiling is central to the [Belief of Level 1](wiki://belief-level-1).
 - **Level 12**: Houses the [Judicial Department](wiki://judicial-department).  
 - **Level 13**: Contains the [IT Department](wiki://it-department).
 - **Levels 20, 50, and 80**: Home to the [Cafeterias](wiki://cafeteria).
