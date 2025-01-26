@@ -12,7 +12,7 @@
 
 {
 	"_names_": [""],
-	"_images_": [],
+	"_images_": []
 }
 
 <!--INFOBOX-->

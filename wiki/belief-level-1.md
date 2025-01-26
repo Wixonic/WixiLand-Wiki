@@ -3,7 +3,7 @@
 {
 	"active": true,
 	"title": "Belief of Level 1",
-	"summary": "The Belief of Level 1 is a myth among the Wixies, based on the idea that an unrecognized first floor exists, even though it’s not part of the official Silo structure. Wixies believe the ramp from Level 2 leads to this hidden Level 1, despite no evidence. A blocked ceiling on Level 2 fuels the illusion, leading some to think the barrier was intentionally placed by the Founders to obscure its true purpose."
+	"summary": "The Belief of Level 1 is a myth among the Wixies, based on the idea that an unrecognized first floor exists, even though it's not part of the official Silo structure. Wixies believe the ramp from Level 2 leads to this hidden Level 1, despite no evidence. A blocked ceiling on Level 2 fuels the illusion, leading some to think the barrier was intentionally placed by the Founders to obscure its true purpose."
 }
 
 <!--METADATA-->

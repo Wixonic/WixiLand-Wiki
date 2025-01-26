@@ -12,7 +12,7 @@
 
 {
 	"_names_": ["Cafeterias"],
-	"_images_": [],
+	"_images_": []
 }
 
 <!--INFOBOX-->
