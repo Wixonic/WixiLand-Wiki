@@ -8,34 +8,10 @@
 		{
 			"name": "Original",
 			"size": [
-				3840,
-				3840
+				1024,
+				1024
 			],
 			"path": "original.png"
-		},
-		{
-			"name": "Large",
-			"size": [
-				2560,
-				2560
-			],
-			"path": "2560.png"
-		},
-		{
-			"name": "Medium",
-			"size": [
-				1920,
-				1920
-			],
-			"path": "1920.png"
-		},
-		{
-			"name": "Small",
-			"size": [
-				1280,
-				1280
-			],
-			"path": "1280.png"
 		}
 	]
 }

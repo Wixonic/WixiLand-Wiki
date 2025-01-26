@@ -4,5 +4,22 @@
 		"name": "Founders",
 		"url": "wiki://founders"
 	},
-	"formats": []
+	"formats": [
+		{
+			"name": "Original",
+			"size": [
+				2048,
+				2048
+			],
+			"path": "original.png"
+		},
+		{
+			"name": "Half",
+			"size": [
+				1024,
+				1024
+			],
+			"path": "1024.png"
+		}
+	]
 }

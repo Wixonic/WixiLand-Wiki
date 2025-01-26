@@ -3,7 +3,7 @@
 {
 	"active": true,
 	"title": "ELEUTHIA",
-	"summary": "ELEUTHIA is a mysterious central system located at Level 40 of the Silos, created by the Founders. Its exact role is unknown, but it is believed to play a part in the maintenance and regeneration of the Wixies, possibly as an incubator or storage system. Access to ELEUTHIA is forbidden, and surrounding areas (Levels 41-45) are restricted, fueling myths about its hidden secrets and periodic "birth" of new Wixies."
+	"summary": "ELEUTHIA is a mysterious central system located at Level 40 of the Silos, created by the Founders. Its exact role is unknown, but it is believed to play a part in the maintenance and regeneration of the Wixies, possibly as an incubator or storage system. Access to ELEUTHIA is forbidden, and surrounding areas (Levels 41-45) are restricted, fueling myths about its hidden secrets and periodic \"birth\" of new Wixies."
 }
 
 <!--METADATA-->

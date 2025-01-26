@@ -3,7 +3,7 @@
 {
 	"active": true,
 	"title": "Bessie",
-	"summary": "Bessie is a steam-powered generator located at Level 100 of each Silo. It consists of three turbines that generate electricity to power systems within the Silo, including forges and machinery. Bessie is vital for the Complex’s operation, and its failure would cause a collapse of key systems. Some Wixies view Bessie as the "heart" of the Complex, with rumors suggesting it might have a consciousness and could choose when to stop."
+	"summary": "Bessie is a steam-powered generator located at Level 100 of each Silo. It consists of three turbines that generate electricity to power systems within the Silo, including forges and machinery. Bessie is vital for the Complex's operation, and its failure would cause a collapse of key systems. Some Wixies view Bessie as the \"heart\" of the Complex, with rumors suggesting it might have a consciousness and could choose when to stop."
 }
 
 <!--METADATA-->
