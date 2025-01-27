@@ -25,7 +25,7 @@ A **Silo** is an underground bunker serving as a refuge during the [Great Cold](
 
 ## Structure
 
-A Silo consists of 99 levels, numbered from 2 to 100, connected by a large ramp. Most of these levels are designated for housing, storage, and maintenance purposes. [Server rooms](wiki://server-rooms) for the [IT Department](wiki://it-department) are located every 10 levels, except on Levels 40 and 100. [Dumpsters](wiki://dumpsters), found every 5 levels, are interconnected and lead to the [incinerator](wiki://incinerator) on Level 99, except on Level 100.
+A Silo consists of 99 levels, numbered from 2 to 100, connected by a large ramp. Most of these levels are designated for housing, storage, and maintenance purposes. [Server rooms](wiki://server-rooms) for the [IT Department](wiki://it-department) are located every 10 levels, except on Levels 40, 70 and 100. [Dumpsters](wiki://dumpsters), found every 5 levels, are interconnected and lead to the [incinerator](wiki://incinerator) on Level 99, except on Level 100.
 
 ### Notable Levels
 
@@ -35,6 +35,7 @@ A Silo consists of 99 levels, numbered from 2 to 100, connected by a large ramp.
 - **Levels 20, 50, and 80**: Home to the [Cafeterias](wiki://cafeteria).
 - **Level 40**: Location of [ELEUTHIA](wiki://eleuthia).
 - **Levels 41-45**: These levels are closed and inaccessible, leading to speculation that they are part of [ELEUTHIA](wiki://eleuthia).
+- **Levels 65-70**: Contain the [Farms](wiki://farms).
 - **Levels 95–97**: Contain the [Forges](wiki://forges).
 - **Level 98**: Houses the [Resource Distribution Center](wiki://wrdc).
 - **Level 99**: Contains the [Recycling Center](wiki://wrc) and [incinerator](wiki://incinerator).
